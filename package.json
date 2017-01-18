@@ -1,0 +1,19 @@
+{
+  "name": "react-bootstrap-pagination",
+  "version": "1.0.0",
+  "description": "Components to facilitate pagination functionality in a react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelmilessmith/react-bootstrap-pagination.git"
+  },
+  "author": "michaelmilessmith@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelmilessmith/react-bootstrap-pagination/issues"
+  },
+  "homepage": "https://github.com/michaelmilessmith/react-bootstrap-pagination#readme"
+}
